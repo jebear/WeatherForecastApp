@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Weather Forecast</string>
+    <string name="temperature_celcius">%.1f°C</string>
+    <string name="min_max_format">High %d°C / Low %d°C</string>
+
+    <!--error messages-->
+    <string name="no_connection">No Internet Connection</string>
+    <string name="something_wrong">Something went wrong. Try again later.</string>
+</resources>
